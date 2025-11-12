@@ -1,3 +1,6 @@
+## 0.8.0
+* Update android files to use namespace
+
 ## 0.7.0
 
 * Android: Support V2 embedding (Thanks [nikitadol](https://github.com/nikitadol))
